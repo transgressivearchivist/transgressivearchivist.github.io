@@ -1,0 +1,59 @@
+
+//
+// VARIABLES
+//
+
+// Colors
+$blue: #9B9BFA;
+
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
+// Font stacks
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+
+@font-face {
+  font-family: FrankRuhlLibre;
+  src: url(/fonts/Frank_Ruhl_Libre/FrankRuhlLibre-Light.ttf);
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: FrankRuhlLibre;
+  src: url(/fonts/Frank_Ruhl_Libre/FrankRuhlLibre-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: FrankRuhlLibre;
+  src: url(/fonts/Frank_Ruhl_Libre/FrankRuhlLibre-Medium.ttf);
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: FrankRuhlLibre;
+  src: url(/fonts/Frank_Ruhl_Libre/FrankRuhlLibre-Bold.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: FrankRuhlLibre;
+  src: url(/fonts/Frank_Ruhl_Libre/FrankRuhlLibre-Bold.ttf);
+  font-weight: 800;
+}
+
+$hebrew: FrankRuhlLibre;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
