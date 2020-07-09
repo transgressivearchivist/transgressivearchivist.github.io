@@ -12,9 +12,9 @@ layout: default
     {% endif %}
     <div class="post-tags">
       {% if post %}
-        {% assign categories = post.categories %}
+        {% assign categories = post.categories | sort %}
       {% else %}
-        {% assign categories = page.categories %}
+        {% assign categories = page.categories | sort %}
       {% endif %}
       {% for category in categories %}
         <a href="{{site.baseurl}}/tags/#{{category|slugize}}">{{category}}</a>
