@@ -4,15 +4,15 @@ title: Acknowledgements
 permalink: /acknowledgements/
 ---
 
-# Software #
+## Software ##
 
 This site is built with [Jekyll](https://jekyllrb.com/), using the [Reverie](https://github.com/amitmerchant1990/reverie) theme by [Amit Merchant](https://github.com/amitmerchant1990), which is made available under the [MIT license](https://github.com/amitmerchant1990/reverie/blob/master/LICENSE).
 
-# Fonts #
+## Fonts ##
 
 The Reverie theme primarily uses the [Apache](https://opensource.org/licenses/Apache-2.0) licensed Roboto font by Google, as well as a variety of other open fonts. These have been supplemented with the Libre Baskerville font and the [Frank Ruhl Libre](https://opensiddur.org/help/fonts/) font for Hebrew text, both available under the [SIL Open Font License](https://opensource.org/licenses/OFL-1.1).
 
-# Images #
+## Images ##
 
 Site masthead and logo created by [Sombras Blancas Design](http://www.sombrasblancasdesign.com/), branding and web design for small businesses and startups.
 
