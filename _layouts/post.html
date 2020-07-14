@@ -12,12 +12,12 @@ layout: default
     {% endif %}
     <div class="post-tags">
       {% if post %}
-        {% assign categories = post.categories | sort %}
+        {% assign tags = post.tags %}
       {% else %}
-        {% assign categories = page.categories | sort %}
+        {% assign tags = page.tags %}
       {% endif %}
-      {% for category in categories %}
-        <a href="{{site.baseurl}}/tags/#{{category|slugize}}">{{category}}</a>
+      {% for tag in tags %}
+        <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </div>
