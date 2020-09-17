@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Surviving and Thriving in my Information Career
-tags: [libraries, recordkeeping, transgender]
+tags: [libraries, records, transgender]
 date: 2020-07-12 14:38:41 +10:00
 excerpt: Over on Queeries and Clareification, Clare has been reflecting on their queer career. It got me thinking about my own pathway into the work I do now and how that's been affected by my own experiences of gender and sexuality.
 ---

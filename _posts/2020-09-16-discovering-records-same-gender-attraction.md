@@ -1,0 +1,53 @@
+---
+layout: post
+title:  Discovering Records of Same Gender Attraction
+tags: [archives, records, sexuality, glam blog club]
+date: 2020-09-16 18:38:41 +10:00
+excerpt: "This is a qualitative account of the experience of searching for and discovering records relating to minoritised sexual identities and behaviours through the National Archives of Australia's Record Search."
+---
+
+This is a qualitative account of the experience of searching for and discovering records relating to minoritised sexual identities and behaviours through the National Archives of Australia's [Record Search](https://recordsearch.naa.gov.au/).
+
+## The ASIO Research File ##
+
+First I choose my search keywords. Terms that are considered outdated and even offensive now, such as "homosexual" were commonly used in the past, but terms that are commonly used today, such as "queer" were used in different ways historically e.g. a search for digital items with the keyword "queer" turns up one record in Record Search: a photo of the "queer looking but harmless" daddy longlegs spider (NAA: A1200, L59876).
+
+The sixth result for a basic search using "homosexual" as a keyword, and the first one that has been digitised, is an item from the Australian Security Intelligence Organisation (ASIO) about 'Persons reported for homosexual tendencies and serious character defects' dated 1965 - 1968 (NAA: A12694, 15). This is part of a series that has been 'collected for a research project on aspects of the cold war in Australia'. The item consists of some loose pages, out of order, that have been copied from other files. When reassembled, these pages form two documents: one is a letter instructing Commonwealth agencies about a cabinet decision not to employ “homosexuals”, who are compared to people with drug or alcohol dependency or who mismanage finances, in roles where they might have access to sensitive government information. The other is a letter reporting on information received from an informant, detailing the names and activities of Commonwealth employees who engage in behaviour that is characterised as "homosexual".
+
+I feel horrified. I think about how this kind of government decision would have affected me and my partner, not just for our employment prospects in government roles, but also for what it would have meant about the broader culture and employment in other sectors. I think, too, about what it must have been like for the older gay men I have known to have lived through this period of the 1960s in Australia, and how these kinds of decisions and attitudes must have affected them and their lives. I'm fascinated too, though, especially by the letter from the informant, which describes the cruising "haunts" of 1960s Canberra, as well as the different sociological strategies used by same gender attracted men during that time period. 
+
+I take a break from archival research to go and get some lunch. I share my horror at my findings with my partner, seeking some emotional support. He cannot deal with hearing about this level of homophobia on his lunch break and is angry at me for bringing up the subject without warning. This is fair and I apologise, but am still left dealing with the emotional impact of the records by myself.
+
+## The ASIO Subject File ##
+
+I go back to researching. I reason that if the papers are pages that have been copied from other files, then maybe those other files belonged to the same agency. I look up ASIO's agency number and view all the series they have on record. I figure that their subject files series is likely to be the one containing the files these documents were copied from. I conduct an advanced search, looking for ASIO subject files, in the date range 1965 - 1968, which have been digitised.
+
+In the second page of results I find a file titled 'Security personnel - personal characteristics including homosexuality - consideration as security factor - Volume 2' (NAA: A6122, 1856) dated 1964 - 1966. This is a file that contains a copy of the cabinet decision letter, as well as several earlier drafts and correspondence relating to its development. I note that all of the named correspondents are men and presumably none of them consider themselves to be the "practicing homosexuals" about whom they're writing. 
+
+I also notice that "practicing homosexuals" are presumed to be men and wonder whether this means that government employees in general were also assumed to be men by default. Many of the documents on the file are typed, and I wonder who typed them. I imagine what it might have been like to be a woman, a lesbian even, in the 1960s, taking dictation for these men and typing up their correspondence as they discussed the character weaknesses and security risks of "practicing homosexuals".
+
+At the back of the file is a 17 page document titled "Some notes on homosexuality". It begins "These notes on male homosexuals and male homosexuality have been prepared by a male homosexual." It's one of the few times in these records, apart from the informant's letter, that we hear directly from one of the people under discussion in their own voice. The document is full of interesting reflections on vocabulary, culture, and the author's own personal identity and relationships. It gives a real sense of what it was like to be a man with same gender attractions in the 1960s. Notably, his answer to the question "Blackmail apart, are there good reasons for excluding homosexuals From Security Sensitive Jobs?" is "I can see no reason for excluding anyone from a job his past performance has shown he can do well." Obviously, this opinion is not the one the government went on to use as the basis for its decision-making.
+
+## The Cabinet File ##
+
+I realise that the copy of the letter on the ASIO subject file is unsigned, is likely therefore just a file copy, and that there is probably a signed copy out there that was received by another agency. The ASIO subject file has the word "homosexuality" in the title, so I conduct a basic search using "homosexuality" as a keyword. 
+
+The first item that comes up is a cabinet file from 1952 - 1968 titled 'Communists and communist sympathisers in the employ of the Commonwealth - policy' (NAA: A4940, C643). This file contains an addressed and signed copy of the letter, along with annotations that it has been sighted and should be placed on the Cabinet file. Other documents on this file include extensive documentation on how other English-speaking colonial governments, specifically the UK, Canada, and the USA, handle security risks in government employment. 
+
+I reflect on how much of this specific cabinet decision was tied to Australia's colonial relationship with the UK. The document at the back of the ASIO subject file talks about how much of the cultural attitudes towards homosexuality have been imported to Australia from UK. And this cabinet file is now demonstrating that not just the beliefs and attitudes, but the specific policy decisions are directly based on UK policy.
+
+## Conclusions ##
+
+The glossary in the "Some notes on homosexuality" document at the back of the ASIO subject file indicates that the term "queer" certainly was "used in its accepted sense as homosexual" in the 1960s. However, this was obviously insider language only, as it's not the term that was used in government documents or on government files, so when it comes to keyword searching, "homosexual" and "homosexuality" were the only effective terms for discovering relevant government records from this period. These keyword searches alone were highly effective though, and I would have found all the records I was interested in using a basic keyword search with stemming -- "homosexual*" -- if I'd started out with that.
+
+The process of discovering these records was an emotionally loaded one for me, as someone who is in a same gender relationship. I couldn't help but imagine myself, my partner, and people we know being affected by the decisions and cultural milieu I was reading about. It made me angry, upset, sad, and grateful for the progress we've made, and at the same time, aware that there's still a lot more work left to do. 
+
+## References ##
+
+National Archives of Australia: Australian News and Information Bureau, Canberra; A1200, Black and white photographic negatives and prints, single number series with 'L' \[Library\] prefix, 01 Jan 1945 - 30 Jun 1971; L59876, TITLE: Fauna - Insects - Fauna by Frauca - The queer looking but harmless, the Daddy Longlegs spider (Pholciesphalangioides). It is commonly found in the corners and ceilings of neglected rooms. It is an introduced species in Australia CATEGORY: Photograph PRINCIPAL CREDIT: Australian News and Information Bureau, Photographer H Frauca FORMAT: b&w negative TYPE: cellulose acetate STATUS: preservation material, 1967 - 1967.
+
+National Archives of Australia: Australian Security Intelligence Organisation, Central Office; A6122, Subject files, multiple number series, 16 Mar 1949 - ; 1856, Security personnel - personal characteristics including homosexuality - consideration as security factor - Volume 2, 1964 - 1966.
+
+National Archives of Australia: Australian Security Intelligence Organisation, Central Office; A12694, Source material collected for a research project on aspects of the cold war in Australia, single number series, 2003 - ; 14, Persons reported for homosexual tendencies and serious character defects - Commonwealth Public Service Volume 1, 1965 - 1968.
+
+National Archives of Australia: Secretary to Cabinet/Cabinet Secretariat; A4940, Menzies and Holt Ministries - Cabinet files 'C' single number series, 01 Oct 1958 - 31 Oct 1967; C643, Communists and communist sympathisers in the employ of the Commonwealth - policy. \[Contains policy on security risks posed by persons with access to classified information who are communists or suspected communists, or who have 'serious failings such as drunkeness, addiction to drugs, homosexuality', etc. Contains report by ASIO and details of the practices followed in the UK and the USA\], 1952 - 1968.
