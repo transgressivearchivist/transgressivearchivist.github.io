@@ -10,7 +10,7 @@ One of the things I do professionally is helping researchers organise and preser
 
 I often introduce the topic of date formats in relation to file naming. Dates can be useful information to have in the title of a file: the date a sample was collected, interview conducted, etc. Because there are so many different ways of writing dates, it's important to choose a consistent date format when establishing file naming conventions. Is 01/03/1998 the 1st of March or the 3rd of January 1998? Is 200405 May 2004 or 5th April 2020? There is an international standard that recommends which date format to use: ISO 8601 (eg. YYYY-MM-DD). This has the advantage of sorting in date order in most file systems, which isn't true of other date formats.
 
-![ISO 8601 was published on 06/05/88 and most recently amended on 12/01/04.](https://imgs.xkcd.com/comics/iso_8601.png)
+![ISO 8601 was published on 06/05/88 and most recently amended on 12/01/04.](/images/iso_8601.png)
 <p style="text-align: center;font-size: 60%"><a href="https://xkcd.com/1179/">ISO 8601</a> by Randall Munroe, published on <a href="https://xkcd.com/">xkcd.com</a> under a <a href="http://creativecommons.org/licenses/by-nc/2.5/">CC BY-NC 2.5 license</a></p>
 
 Under the hood, Microsoft Excel encodes dates, or any data it interprets as a date, as a numerical value, which can be displayed in a variety of date formats. This has the unfortunate of effect of corrupting genomic and other data opened in Excel, as well as converting ISO 8601 formatted dates into various other formats, as discussed by De Rijk, D'Hert, and Strazisar in their pre-print [opentsv prevents the corruption of scientific data by Excel](https://doi.org/10.1101/497370):
