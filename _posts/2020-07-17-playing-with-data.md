@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Playing with Data
 tags: [data, glam blog club, jewish, indigenous]
 date: 17/07/2020 11:59:16 +10:00

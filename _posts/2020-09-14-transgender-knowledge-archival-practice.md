@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Transgender Knowledge and Archival Practice
 tags: [archives, transgender]
 date: 2020-09-14 21:53:41 +10:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Translating Time
 tags: [data, glam blog club, jewish]
 date: 2020-08-09 21:33:01 +10:00

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Imposter Syndrome, Gender Dysphoria, and Patriarchy
 tags: [libraries, transgender]
 date: 2020-08-24 18:42:41 +10:00

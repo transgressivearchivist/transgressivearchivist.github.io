@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Surviving and Thriving in my Information Career
 tags: [libraries, records, transgender]
 date: 2020-07-12 14:38:41 +10:00

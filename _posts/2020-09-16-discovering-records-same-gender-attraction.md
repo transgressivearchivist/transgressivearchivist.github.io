@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Discovering Records of Same Gender Attraction
 tags: [archives, records, sexuality, glam blog club]
 date: 2020-09-17 19:34:30 +10:00

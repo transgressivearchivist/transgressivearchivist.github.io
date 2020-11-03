@@ -5,14 +5,31 @@
 # Name of your site (displayed in the header)
 name: Transgressive Archivist
 
-# Name of the author
-author: Transgressive Archivist
-
 # Short bio or description (displayed in the header)
 description: appraising information practice
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/masthead.png
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: Transgressive Archivist
+  -
+    scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+  -
+    scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: page
 
 #
 # Flags below are optional
