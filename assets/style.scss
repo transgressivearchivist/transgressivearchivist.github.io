@@ -288,7 +288,7 @@ p > img {
 }
 
 .site-avatar {
-  float: none;
+  float: left;
 
   @include mobile {
     float: none;
@@ -298,8 +298,8 @@ p > img {
 
   img {
     border-radius: 5px;
-    width: 375px;
-    height: 178px;
+    width: 100px;
+    height: 100px;
     display: block;
     margin-left: auto;
     margin-right: auto;
