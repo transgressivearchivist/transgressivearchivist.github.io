@@ -1,5 +1,5 @@
 ---
-title:  Playing with Data
+title:  Playing with data
 tags: [data, glam blog club, jewish, indigenous]
 date: 17/07/2020 11:59:16 +10:00
 excerpt: One way patrons can explore GLAM collections is through the digital content that institutions make available as data. I have often heard (white, men) data scientists speak of this type of exploration in terms such as “playing with the data.” It is in this context that GLAM institutions must be particularly mindful that not all of the material we hold is appropriate for being converted into data to be played with.

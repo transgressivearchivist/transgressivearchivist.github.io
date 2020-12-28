@@ -1,5 +1,5 @@
 ---
-title:  Discovering Records of Same Gender Attraction
+title:  Discovering records of same gender attraction
 tags: [archives, records, sexuality, glam blog club]
 date: 2020-09-17 19:34:30 +10:00
 excerpt: "This is a qualitative account of the experience of searching for and discovering records relating to minoritised sexual identities and behaviours through the National Archives of Australia's Record Search."

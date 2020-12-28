@@ -1,5 +1,5 @@
 ---
-title:  Imposter Syndrome, Gender Dysphoria, and Patriarchy
+title:  Imposter syndrome, gender dysphoria, and patriarchy
 tags: [libraries, transgender]
 date: 2020-08-24 18:42:41 +10:00
 excerpt: "Nicola Andrews' recent article ''It's not imposter syndrome: Resisting self-doubt as normal for library workers'' in In The Library With The Lead Pipe resonated with me. It got me thinking about the way my male privilege combines with my transgender history to leave me in a state of perpetual self doubt that is invisible to and unsupported by my professional environment."

@@ -1,5 +1,5 @@
 ---
-title:  Don't Judge A Homeless Book By Its Cover
+title:  Don't judge a homeless book by its cover
 author: Aspiring Librarian
 tags: [guest post, libraries]
 date: 2020-11-09 18:54:37 +11:00

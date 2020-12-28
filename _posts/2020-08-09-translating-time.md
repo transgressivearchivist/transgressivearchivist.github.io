@@ -1,5 +1,5 @@
 ---
-title:  Translating Time
+title:  Translating time
 tags: [data, glam blog club, jewish]
 date: 2020-08-09 21:33:01 +10:00
 excerpt: One of the things I do professionally is helping researchers organise and preserve their data. This can involve thinking through the best formats to use to represent their data and helping them understand how different software interprets those formats. This can be a particularly thorny issue when it comes to date formats, especially in the case of the very commonly used software, Microsoft Excel. But date formats aren't even the half of it when we start thinking about the cultural complexities of communicating and interpreting different systems for thinking about and encoding time.

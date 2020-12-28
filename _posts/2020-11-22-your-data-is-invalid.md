@@ -1,5 +1,5 @@
 ---
-title:  "Your Data Is Invalid: Collecting Data On Sex, Gender, And Sexuality"
+title:  "Your data is invalid: Collecting data on sex, gender, and sexuality"
 tags: [glam blog club, transgender, data]
 date: 2020-11-22 18:37:21 +11:00
 excerpt: "I've written previously about how I've acquired knowledge through my lived experiences with gender that I believe makes me a better information professional. One example of this is my experiences participating in research in which I am marginalised and erased because of my gender history. This makes me aware of the ways in which the resulting datasets fail to capture the experiences of trans and gender diverse (TGD) research participants, which means that the TGD population are not represented by and do not benefit from the outcomes of that research. Because of these experiences, I am inclined to centre the interests of research participants, communities, and society in my data curation practice."
